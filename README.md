@@ -2,7 +2,7 @@
 
 > Ultra-light YouTube-only ad blocker — Manifest V3
 
-TubeShield is a focused, minimal Chrome extension that blocks ads across YouTube (desktop & mobile). It is heavily inspired by [uBlock Origin](https://github.com/gorhill/uBlock) (uBO) and adapts several of uBO's filtering techniques — including scriptlet-based `json-prune`, response interception, and cosmetic filtering — into a lightweight Manifest V3 extension purpose-built for YouTube.
+TubeShield is a focused, minimal Chrome extension that blocks ads across YouTube (desktop). It is heavily inspired by [uBlock Origin](https://github.com/gorhill/uBlock) (uBO) and adapts several of uBO's filtering techniques — including scriptlet-based `json-prune`, response interception, and cosmetic filtering — into a lightweight Manifest V3 extension purpose-built for YouTube.
 
 > **Developed by uBlock Origin × Tarek** — full credit to Raymond Hill and the uBlock Origin project for the filtering methodology and scriptlet patterns that this extension builds upon.
 
